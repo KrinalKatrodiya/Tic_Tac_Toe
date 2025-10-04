@@ -1,7 +1,7 @@
 # 🎮 Tic Tac Toe Game
 
 A fun and simple **Tic Tac Toe (X–O)** game built using **HTML, CSS, and JavaScript**.  
-Play against a computer.
+Play against a friend and see who gets three in a row first!
 
 ---
 
