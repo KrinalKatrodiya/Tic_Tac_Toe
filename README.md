@@ -13,7 +13,7 @@ Play against a computer.
 
 ---
 
-## 🚀 How to Play
+## ▶️ How to Play
 1. Player **O** starts the game.  
 2. Players take turns clicking on empty boxes.  
 3. The first player to align three symbols (row, column, or diagonal) wins.  
